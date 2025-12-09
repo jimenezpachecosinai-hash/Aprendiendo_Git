@@ -5,22 +5,22 @@ Objetivo: Crear una aplicación que muestre un curso para que oriente al usuario
 ## Pantalla de bienvenida
 ![Bienvenida](Pantallas_draw/Bienvenida.png)
 ## Lecciones
-### Lección 1
-![Lección 1](Pantallas_draw/Leccion_1.png)
-### Lección 2
-![Lección 2](Pantallas_draw/Leccion_2.png)
-### Lección 3
-![Lección 3](Pantallas_draw/Leccion_3.png)
-### Lección 4
-![Lección 4](Pantallas_draw/Leccion_4.png)
-### Lección 5
-![Lección 5](Pantallas_draw/Leccion_5.png)
-### Lección 6
-![Lección 6](Pantallas_draw/Leccion_6.png)
-### Lección 7
-![Lección 7](Pantallas_draw/Leccion_7.png)
-### Lección 8
-![Lección 8](Pantallas_draw/Leccion_8.png)
+### Leccion 1
+![Leccion 1](Pantallas_draw/Leccion_1.png)
+### Leccion 2
+![Leccion 2](Pantallas_draw/Leccion_2.png)
+### Leccion 3
+![Leccion 3](Pantallas_draw/Leccion_3.png)
+### Leccion 4
+![Leccion 4](Pantallas_draw/Leccion_4.png)
+### Leccion 5
+![Leccion 5](Pantallas_draw/Leccion_5.png)
+### Leccion 6
+![Leccion 6](Pantallas_draw/Leccion_6.png)
+### Leccion 7
+![Leccion 7](Pantallas_draw/Leccion_7.png)
+### Leccion 8
+![Leccion 8](Pantallas_draw/Leccion_8.png)
 
 ## Evaluaciones (Quiz)
 ### Quiz 1

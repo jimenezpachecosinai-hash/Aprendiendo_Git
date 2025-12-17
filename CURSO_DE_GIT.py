@@ -19,7 +19,7 @@
 #   Quiz_P5.py
 
 import sys
-from PyQt5.QtWidgets import QApplication, QStackedWidget, QWidget, QMainWindow
+from PyQt5 import QApplication, QStackedWidget, QWidget, QMainWindow
 
 # ===== IMPORTS DE PANTALLAS =====
 from Pantallas import Bienvenida
